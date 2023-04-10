@@ -1,2 +1,1 @@
-# offtopic
-The Off Topic Newsletter Website
+This is our weekly newsletter :)
